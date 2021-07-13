@@ -1,5 +1,5 @@
 /*
- * @xkx
+ * @xkx https://github.com/jialezi/img2ipfs/
  */
 $(() => {
     /* 临时粘贴上传 */
